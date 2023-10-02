@@ -38,6 +38,7 @@ main {
 .card {
     border-radius: 5px;
     overflow: hidden;
+    box-shadow: 0 0 2rem 0 hsla(218, 22%, 70%, .5);
 }
 
 .membership-offer, 
