@@ -92,6 +92,7 @@ main {
 .subscription-section .price-and-access .price {
     font-size: 2rem;
     margin-right: .8rem;
+    font-weight: 700;
 }
 
 .subscription-section .price-text span:last-child {
